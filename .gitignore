@@ -5,3 +5,4 @@
 # ignore ALL files in ANY directory named temp
 target/
 bin/
+.DS_Store
